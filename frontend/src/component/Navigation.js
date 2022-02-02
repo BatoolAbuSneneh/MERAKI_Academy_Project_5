@@ -6,7 +6,6 @@ const Navigation = () => {
         <Link className="register" to="/register">
               Register
             </Link>
-
             <Link className="login" to="/login">
               Login
             </Link>
