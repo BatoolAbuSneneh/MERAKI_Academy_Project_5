@@ -101,7 +101,6 @@ const AllCases = (token) => {
             <p>{element.title}</p>
             <p>{element.case_image}</p>
             <p>{element.case_description}</p>
-
             {casee.author === userId && (
               <>
                 {updateBox && caseId === casee.id && (
